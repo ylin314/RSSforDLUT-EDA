@@ -70,6 +70,13 @@ SOURCES = [
         "category": "ssdut",
     },
     {
+        "name": "软院-研究生招生",
+        "url": "https://ss.dlut.edu.cn/rcpy/yjspy/yjszs.htm",
+        "selector": ".list04 .item a",
+        "parser": parse_h2_child,
+        "category": "ssdut",
+    },
+    {
         "name": "软院-研究生通知",
         "url": "https://ss.dlut.edu.cn/rcpy/yjspy/yjstz.htm",
         "selector": ".list04 .item a",
