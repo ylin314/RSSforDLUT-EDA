@@ -41,7 +41,7 @@ def generate_rss_files(all_items):
         # 生成 RSS Feed
         feed = Feed(
             title=f"DUT Notification - {cat.upper()}",
-            link=f"http://rss.linyang.ink/rss/{filename}",
+            link=f"http://rss.ylin314.cn/rss/{filename}",
             description=f"Aggregated notifications for {cat}",
             language="zh-CN",
             lastBuildDate=datetime.datetime.now(),

@@ -4,7 +4,7 @@
 
 ## 快速使用
 
-**订阅地址**: [http://rss.linyang.ink](http://rss.linyang.ink)
+**订阅地址**: [http://rss.ylin314.cn](http://rss.ylin314.cn)
 
 访问该地址即可查看所有可用的 RSS 订阅源，复制对应链接添加到你的 RSS 阅读器即可
 
