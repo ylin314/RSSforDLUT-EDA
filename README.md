@@ -1,10 +1,14 @@
+> [!NOTE]
+>
+> 本仓库后续将不再维护，功能已迁移至 [DLUT-rss](https://github.com/aliveriver/DLUT-rss)，后续也将在该仓库上维护
+
 # RSS for DLUT-EDA
 
 大连理工大学开发区校区 RSS 订阅服务，自动抓取并聚合校内各类通知公告
 
 ## 快速使用
 
-**订阅地址**: [http://rss.linyang.ink](http://rss.linyang.ink)
+**订阅地址**: [http://rss.ylin314.cn](http://rss.ylin314.cn)
 
 访问该地址即可查看所有可用的 RSS 订阅源，复制对应链接添加到你的 RSS 阅读器即可
 
